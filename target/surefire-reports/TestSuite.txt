@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 99.838 s <<< FAILURE! - in TestSuite
+tests.LoginTest.validateLoginTest  Time elapsed: 13.734 s  <<< FAILURE!
+java.lang.AssertionError: expected [abc] but found [Amazon Sign In]
+	at tests.LoginTest.validateLoginTest(LoginTest.java:55)
+

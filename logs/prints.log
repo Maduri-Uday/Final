@@ -1,0 +1,2 @@
+18:04:40.112 [TestNG-tests-3] INFO  tests.JDBCTest - inserted password using JDBC
+18:04:41.603 [TestNG-tests-1] INFO  org.testng.annotations.Test - Closing the browser

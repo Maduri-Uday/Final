@@ -1,0 +1,5 @@
+tests\JDBCTest.class
+tests\Listeners.class
+tests\ValidateTitle.class
+tests\LoginTest.class
+tests\Logs.class

@@ -1,0 +1,6 @@
+18:04:14.537 [TestNG-tests-1] INFO  org.testng.annotations.Test - Howereing the mouse to Signin
+18:04:22.611 [TestNG-tests-1] INFO  org.testng.annotations.Test - clicked on Signin
+18:04:24.510 [TestNG-tests-3] INFO  tests.JDBCTest - open url with jdbc
+18:04:28.276 [TestNG-tests-1] INFO  org.testng.annotations.Test - entered Username
+18:04:32.399 [TestNG-tests-3] INFO  tests.JDBCTest - inserted username using JDBC
+18:04:33.414 [TestNG-tests-1] INFO  org.testng.annotations.Test - entered password
